@@ -4,6 +4,8 @@
 
 This project analyzes coffee shop sales data to provide insights into business performance, customer behavior, and sales trends. The analysis includes SQL queries for data exploration and a Power BI dashboard for interactive visualization.
 
+<img src="/dashboard_screenshot.png"/>
+
 ## 🚀 How to Run
 
 ### Prerequisites
@@ -97,3 +99,4 @@ This analysis provides coffee shop managers with:
 - Data covers coffee shop transactions with comprehensive sales metrics
 - Analysis focuses on May 2023 with comparative data from April
 - All monetary values are rounded for clarity in reporting
+
